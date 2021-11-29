@@ -14,4 +14,5 @@ The functionality of the heat control system is coded in embedded c and the work
 Below shows two images where in the 1st image shows the status of the simulation when the system is OFF and the second image shows the status of the system when it is ON.
 
 ON
-![image](https://user-images.githubusercontent.com/94246316/143614668-520dce0e-e651-4eb5-99e4-9b33ee03a1df.png)
+
+[![image](https://user-images.githubusercontent.com/94246316/143614668-520dce0e-e651-4eb5-99e4-9b33ee03a1df.png)]
