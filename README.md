@@ -36,14 +36,14 @@ Below shows two images where in the 1st image shows the status of the simulation
 * The digitized temperature input is visualized using Pulse Width Modulation.
 * The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
 
-## Significance of Control Systems
+## Significance of heat Control Systems
 For a company to stay in business and compete with other competitors both locally and
 internationally, a company must place more emphasis on quality and efficiency of their
 products. For these reasons more companies are now finding ways to developed and
 improve control systems in order to be able to achieve best possible productivity at all
 stages.
 
-### Some of the significance of control systems in a company are as follows:
+### Some of the significance of heat control systems in a company are as follows:
 * Enhanced product quality
 * Waste minimization
 * Environmental protection
