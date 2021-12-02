@@ -29,9 +29,8 @@ Below shows two images where in the 1st image shows the status of the simulation
 |CRO|Serial Monitor|
 |![CRO](https://github.com/hemanthasapu/embedded_systems_project_256889/blob/main/simulation/Oscilloscope.gif)|![ON](https://github.com/hemanthasapu/embedded_systems_project_256889/blob/main/simulation/Serial_Monitor.gif)|
 
-## CI AND CODE QUALITY
-[![Codacy Badge](https://api.codiga.io/project/30213/score/svg)]
-[![Codacy Badge](https://api.codiga.io/project/30213/status/svg)]
+
+[![C/C++ CI](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/c-cpp.yml)
 
 
 ### Functionality 
