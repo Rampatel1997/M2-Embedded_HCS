@@ -30,7 +30,7 @@ Below shows two images where in the 1st image shows the status of the simulation
 |![CRO](https://github.com/hemanthasapu/embedded_systems_project_256889/blob/main/simulation/Oscilloscope.gif)|![ON](https://github.com/hemanthasapu/embedded_systems_project_256889/blob/main/simulation/Serial_Monitor.gif)|
 
 
-[![C/C++ CI](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/c-cpp.yml)
+[![C/C++ CI](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/c-cpp.yml) [![CI](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/main.yml/badge.svg)](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/main.yml)
 
 
 ### Functionality 
