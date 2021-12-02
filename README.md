@@ -31,7 +31,9 @@ Below shows two images where in the 1st image shows the status of the simulation
 
 
 [![C/C++ CI](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/c-cpp.yml) [![CI](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/main.yml/badge.svg)](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/main.yml) [![Compile-Linux](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/compile.yml/badge.svg)](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/compile.yml) [![GitInspector](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/GitInspector.yml) [![Linux C/C++ CI](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/Linux-c-cpp.yml/badge.svg)](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/Linux-c-cpp.yml) [![cppcheck](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/codequality.yml/badge.svg)](https://github.com/Rampatel1997/M2-Embedded_HCS/actions/workflows/codequality.yml)
-[![code quality score] https://api.codiga.io/project/30213/score/svg]
+![code quality score](https://api.codiga.io/project/30167/score/svg)
+![code grade](https://api.codiga.io/project/30167/status/svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/11868fe7d6ff4f348d6be9da922d6e22)](https://www.codacy.com/gh/coderakyadav/M2-Embedded_heatcontrolsystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=coderakyadav/M2-Embedded_heatcontrolsystem&amp;utm_campaign=Badge_Grade)
 
 
 ### Functionality 
